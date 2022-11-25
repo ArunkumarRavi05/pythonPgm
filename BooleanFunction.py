@@ -1,0 +1,10 @@
+a = "joes"
+print(a.isupper())
+print(a.islower())
+print("IsUpper :",a.isupper())
+print("IsLower :",a.islower())
+print("IsAlphaNumeric :",a.isalnum())
+print("IsAlpha",a.isalpha())
+print("IsDecimal :",a.isdecimal())
+print("IsNumeric :",a.isnumeric())
+print("IsDigital :",a.isdigit())

@@ -1,0 +1,12 @@
+s = "Tutor Joes"
+print(s)
+print(type(s))
+print(s.upper())
+print(s.lower())
+print(s.capitalize())
+print(s.title())
+print(s.count('t'))
+print(s.endswith('es'))
+print(s.find('o'))
+print(s.find('o',5))
+print(s.replace('o','0'))
